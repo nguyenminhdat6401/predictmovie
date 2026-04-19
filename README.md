@@ -30,6 +30,3 @@ Input → Tiền xử lý → Load model → Dự đoán → Output
 ## 📊 Model
 - Thuật toán: XGBoost (Regressor / Classifier)
 - Metric: Accuracy / RMSE / MAE
-
-## 👨‍💻 Tác giả
-Nguyen Minh Dat
